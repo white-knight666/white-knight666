@@ -2,7 +2,7 @@
 <h3 align="center">I'm a passionate frontend developer. I live to learn new things everyday.</h3>
 <img alt="code" width="400" height="auto" align="right" src="https://gifdb.com/images/high/computer-system-coding-j3szfjv9fwb5at9x.gif"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1000&color=828BF7&background=F19DFF00&width=435&lines=Hello+I'm+Mohamed+;Frontend+developer+;I'm+interesting+in+web+development+and+design+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1000&color=828BF7&background=F19DFF00&width=435&lines=Hello+I'm+Mohamed+;Frontend+developer+" alt="Typing SVG" /></a>
 - 📫 How to reach me **mohamed.rajab718@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
