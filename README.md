@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
 <h3 align="center">I'm a passionate frontend developer. I live to learn new things everyday.</h3>
 
-<div style="width:100%;height:0;padding-bottom:50%;position:relative;"><iframe src="https://giphy.com/embed/1oF1KAEYvmXBMo6uTS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/animation-tech-1oF1KAEYvmXBMo6uTS">via GIPHY</a></p>
-
 - 📫 How to reach me **mohamed.rajab718@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
