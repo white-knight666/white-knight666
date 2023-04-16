@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
 <h3 align="center">I'm a passionate frontend developer. I live to learn new things everyday.</h3>
-<img alt="code" src="https://i.gifer.com/1kc1.gif](https://gifdb.com/images/high/computer-system-coding-j3szfjv9fwb5at9x.gif"/>
+<img alt="code" src="https://gifdb.com/images/high/computer-system-coding-j3szfjv9fwb5at9x.gif"/>
 - 📫 How to reach me **mohamed.rajab718@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
